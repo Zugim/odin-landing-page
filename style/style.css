@@ -50,7 +50,7 @@ ul {
     list-style-type: none;
 }
 
-li a {
+a {
     text-decoration: none;
     color: #e5e7eb; 
 }
@@ -88,6 +88,7 @@ li a:hover {
     font-size: 16px;
     color: #f9faf8;
     background-color: #3882f6;
+    cursor: pointer;
 }
 
 .hero-right {
